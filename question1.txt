@@ -1,0 +1,3 @@
+wine(NumW,Category,Year,Degree)
+Producer(NumP,FirstName,LastName,Region)
+harvest(NumW,NumP,quantity)
